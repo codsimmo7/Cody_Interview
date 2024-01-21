@@ -1,5 +1,3 @@
-# Welcome to StackEdit!
-
 This is the README.md file for Codys interview. Included are install instructions, project layout, and some design decisions and further explanations. Thanks for taking the time to go over this project.
 
 ## Files
